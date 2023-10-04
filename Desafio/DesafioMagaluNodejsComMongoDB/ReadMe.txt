@@ -7,7 +7,7 @@ Descrição:
 * Arquivo app.js
     
     Funcionalidades
-        1. Conexão com o MongoDB: O arquivo app.js inicia uma conexão com o MongoDB, utilizando as credenciais de usuário = "dev" e senha = "Magazine123" (Essas credenciais também são usadas para acessar o banco de dados via web no portal mongodb.com).
+        1. Conexão com o MongoDB: O arquivo app.js inicia uma conexão com o MongoDB, utilizando as credenciais de usuário = "dev" e senha = "Magazine123".
         
         2. Endpoints POST e GET: O aplicativo define dois endpoints principais: POST / e GET /.
             O endpoint POST / realiza uma solicitação POST para a API de terceiros fornecida para o desafio, registra o log da solicitação no arquivo log.txt e no banco de dados MongoDB.
@@ -27,3 +27,8 @@ Descrição:
 
 * Arquivo helpers.js
     O arquivo helpers.js contém uma classe Helpers com um único método ConvertBasic. Esse método é utilizado no arquivo app.js para converter as credenciais de autenticação (nome de usuário e senha) em um formato Basic, que é comumente usado em cabeçalhos de autorização HTTP.
+
+* Credenciais para acesso ao banco de dados.
+    site: mongodb.com
+    email: fihebah509@gekme.com
+    Senha: M@gazine123

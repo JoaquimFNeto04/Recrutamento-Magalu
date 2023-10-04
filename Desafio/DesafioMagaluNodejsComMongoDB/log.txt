@@ -2,3 +2,5 @@
 2023-10-04T04:03:12.237Z: GET Request - {"CreatedAt":"30/09/2023 10:46:38","ProcessedAt":"04/10/2023 01:00:30","RedirectedUri":"https://api.integracommerce.com.br/callback?code=iXUgIEQb__sFdijGB9LJ31jNT3DNsYC_Bxf46SUqTHw&state=71761486000129%26username%3Dxsellerntcst50xapi%26seller_id%3Dxsellerntcst50x%26type%3Dmigration"}
 2023-10-04T04:05:01.363Z: POST Request - {"message":"Processo de rollout iniciado com sucesso"}
 2023-10-04T04:44:02.427Z: POST Request - {"message":"Processo de rollout iniciado com sucesso"}
+2023-10-04T05:12:53.465Z: POST Request - {"message":"Processo de rollout iniciado com sucesso"}
+2023-10-04T05:13:45.830Z: GET Request - {"CreatedAt":"30/09/2023 10:46:38","ProcessedAt":"04/10/2023 02:13:06","RedirectedUri":"https://api.integracommerce.com.br/callback?code=Ooo4hxu7LtuEXju-R1triRsFm-0MYJH2j9d08tTKnzo&state=71761486000129%26username%3Dxsellerntcst50xapi%26seller_id%3Dxsellerntcst50x%26type%3Dmigration"}
